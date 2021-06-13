@@ -1,0 +1,14 @@
+#header {
+    background-image: url("../images/slider-1.png");
+    height: 500px;
+}
+li {
+    color: white;
+}
+
+h1 {
+    border: 3px dotted red;
+    margin: 0;
+    padding: 25px;
+    margin: 40px;
+}
